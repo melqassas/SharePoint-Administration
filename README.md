@@ -1,5 +1,4 @@
-**Authour: Mohamed El-Qassas** | 
-**Site: https://devoworx.com** | 
-**Need Support: ask me at BUZZ https://buzz.devoworx.com**
+**[Authour: Mohamed El-Qassas](https://devoworx.com)** | 
+**Have a Question, Please ask BUZZ at https://buzz.devoworx.com**
 # PSforSharePoint
 PowerShell Scripts for SharePoint.
