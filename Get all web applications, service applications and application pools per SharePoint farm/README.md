@@ -1,4 +1,4 @@
-# Get All Web Applications Per Farm Using PowerShell Script
+# Get All Web Applications Per Farm Using PowerShell
 
 ![How many SharePoint Web Application Pools Per Farm-min](https://user-images.githubusercontent.com/49816567/77844218-5eae8d00-71ad-11ea-9bce-3ff29f0fc8a2.png)
 
