@@ -4,6 +4,9 @@
 
 - [Manage "Link to Item Edit" Menu for different fields in SharePoint List](https://spgeeks.devoworx.com/show-link-to-item-edit-menu-field/)
 - [SharePoint 2019: Bulk-Register Managed Accounts using PowerShell](https://spgeeks.devoworx.com/bulk-add-managed-account-powershell-sharepoint/)
+- [SharePoint 2019: Bulk-Register Managed Accounts using PowerShell](https://spgeeks.devoworx.com/bulk-add-managed-account-powershell-sharepoint/)
+- [Get All Web Applications Per Farm](https://spgeeks.devoworx.com/get-all-web-applications-per-farm/)
+- [Get All Content Databases Per Farm](https://spgeeks.devoworx.com/get-all-content-databases-per-farm/)
 
  --------------
  
