@@ -20,4 +20,4 @@
 - SharePoint Server 2016
 - SharePoint Server 2013
 
-Please, Check the details explanation at **[Get All Web Applications Per Farm](https://spgeeks.devoworx.com/get-all-web-applications-per-farm)**
+Please, Check the detail explanation at **[Get All Web Applications Per Farm](https://spgeeks.devoworx.com/get-all-web-applications-per-farm)**
