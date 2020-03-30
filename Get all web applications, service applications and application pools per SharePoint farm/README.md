@@ -13,11 +13,10 @@
 
 ![PowerShell Script to get all web applications, service applications and application pools per SharePoint farm](https://i1.wp.com/spgeeks.devoworx.com/wp-content/uploads/2020/03/PowerShell-Script-to-get-all-web-applications-and-application-pools-per-SharePoint-farm.png)
 
+> Please, Check the detail explanation at **[Get All Web Applications Per Farm](https://spgeeks.devoworx.com/get-all-web-applications-per-farm)**
 
 # Applies To
 
 - SharePoint Server 2019
 - SharePoint Server 2016
 - SharePoint Server 2013
-
-Please, Check the detail explanation at **[Get All Web Applications Per Farm](https://spgeeks.devoworx.com/get-all-web-applications-per-farm)**
