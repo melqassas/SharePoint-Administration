@@ -1,5 +1,5 @@
-# PSforSharePoint
-![PowerShell Scripts for SharePoint](https://user-images.githubusercontent.com/49816567/76647068-24b67780-656d-11ea-8113-126cd4846689.png)
+![PowerShell Scripts for SharePoint on GitHub by SPGeeks-min](https://user-images.githubusercontent.com/49816567/77915045-7e25e280-729f-11ea-853f-38212521d17e.png)
+
 # PowerShell Scripts for SharePoint
 
 - [SharePoint Farm Scan Report](https://spgeeks.devoworx.com/sharepoint-farm-scan-report-powerhell-script/)
