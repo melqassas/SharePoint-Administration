@@ -1,4 +1,4 @@
-# [Get All Content Databases Per Farm Using PowerShell(https://spgeeks.devoworx.com/get-all-content-databases-per-farm)
+# [Get All Content Databases Per Farm Using PowerShell](https://spgeeks.devoworx.com/get-all-content-databases-per-farm)
 
 ![Get All Content Databases Per Farm](https://i0.wp.com/spgeeks.devoworx.com/wp-content/uploads/2020/03/How-many-Content-Databases-List-Per-Farm.png)
 
