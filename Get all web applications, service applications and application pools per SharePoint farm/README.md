@@ -1,4 +1,4 @@
-# Get All Web Applications Per Farm Using PowerShell
+# [Get All Web Applications Per Farm Using PowerShell](https://spgeeks.devoworx.com/get-all-web-applications-per-farm)
 
 ![How many SharePoint Web Application Pools Per Farm-min](https://user-images.githubusercontent.com/49816567/77844218-5eae8d00-71ad-11ea-9bce-3ff29f0fc8a2.png)
 
@@ -20,3 +20,10 @@
 - SharePoint Server 2019
 - SharePoint Server 2016
 - SharePoint Server 2013
+
+# See Also
+
+- [SharePoint Farm Scan Report](https://spgeeks.devoworx.com/sharepoint-farm-scan-report-powerhell-script/)
+- [Get All Web Applications Per Farm](https://spgeeks.devoworx.com/get-all-web-applications-per-farm/)
+- [Get All Content Databases Per Farm](https://spgeeks.devoworx.com/get-all-content-databases-per-farm/)
+- [Get All Site Collections and SubSites Per Farm](https://spgeeks.devoworx.com/all-site-collections-and-subsites-per-farm)
