@@ -11,7 +11,7 @@
 - A warning alert if the number of web applications is exceeded the supported limit.
 - A warning alert if the number of application pools is exceeded the threshold limit.
 
-![SP STRUCTURE](https://user-images.githubusercontent.com/49816567/85030771-86970680-b186-11ea-8f4c-cb9bf1086150.gif)
+![Web-Application-Vs-Content-Database-Vs-Site-Collection-Vs-SubSite](https://user-images.githubusercontent.com/49816567/85030976-c8c04800-b186-11ea-96b0-24cd8d743e1c.gif)
 
 
 # How the script works?
