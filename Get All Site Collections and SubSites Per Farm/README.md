@@ -1,4 +1,4 @@
-# [Get All Site Collections and SubSites Per Farm Using PowerShell(https://spgeeks.devoworx.com/all-site-collections-and-subsites-per-farm/)
+# [Get All Site Collections and SubSites Per Farm Using PowerShell](https://spgeeks.devoworx.com/all-site-collections-and-subsites-per-farm/)
 
 ![Get All Site Collections and SubSites Per Farm](https://i1.wp.com/spgeeks.devoworx.com/wp-content/uploads/2020/03/Calculate-Site-Collection-size-per-each-content-database-using-PowerShell.png)
 
@@ -16,9 +16,15 @@
 - How many Subsite per each site collection?
 - A warning alert if the supported limit exceeded.
 
+![SP STRUCTURE](https://user-images.githubusercontent.com/49816567/85030771-86970680-b186-11ea-8f4c-cb9bf1086150.gif)
+
+
+How do the script work?
+
+Please, Check the detail explanation at **[Get All Site Collections and SubSites Per Farm](https://spgeeks.devoworx.com/all-site-collections-and-subsites-per-farm/)**
+
 ![PowerShell Script to get all Site Collections and Subsites details Per SharePoint farm](https://i1.wp.com/spgeeks.devoworx.com/wp-content/uploads/2020/03/number-of-site-collections-per-content-database-in-SharePoint.png)
 
-> Please, Check the detail explanation at **[Get All Site Collections and SubSites Per Farm](https://spgeeks.devoworx.com/all-site-collections-and-subsites-per-farm/)**
 
 # Applies To
 
