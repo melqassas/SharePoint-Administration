@@ -12,9 +12,13 @@
 - A warning alert if the number of content databases per farm is exceeded the supported limit.
 - A warning alert if the size of a content database is exceeded the supported limit.
 
-![PowerShell Script to get all content databases per web application](https://i0.wp.com/spgeeks.devoworx.com/wp-content/uploads/2020/03/Get-Content-Database-size-Per-Web-Application-in-SharePoint-farm.png)
+![SP STRUCTURE](https://user-images.githubusercontent.com/49816567/85030771-86970680-b186-11ea-8f4c-cb9bf1086150.gif)
 
-> Please, Check the detail explanation at **[Get All Content Databases Per Farm](https://spgeeks.devoworx.com/get-all-content-databases-per-farm)**
+# How do the script work?
+
+Please, Check the detail explanation at **[Get All Content Databases Per Farm](https://spgeeks.devoworx.com/get-all-content-databases-per-farm)** to know how you can use this script.
+
+![PowerShell Script to get all content databases per web application](https://i0.wp.com/spgeeks.devoworx.com/wp-content/uploads/2020/03/Get-Content-Database-size-Per-Web-Application-in-SharePoint-farm.png)
 
 # Applies To
 
