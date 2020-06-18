@@ -11,9 +11,15 @@
 - A warning alert if the number of web applications is exceeded the supported limit.
 - A warning alert if the number of application pools is exceeded the threshold limit.
 
+![SP STRUCTURE](https://user-images.githubusercontent.com/49816567/85030771-86970680-b186-11ea-8f4c-cb9bf1086150.gif)
+
+
+# How the script works?
+
+Please, Check the detail explanation at **[Get All Web Applications Per Farm](https://spgeeks.devoworx.com/get-all-web-applications-per-farm)**
+
 ![PowerShell Script to get all web applications, service applications and application pools per SharePoint farm](https://i1.wp.com/spgeeks.devoworx.com/wp-content/uploads/2020/03/PowerShell-Script-to-get-all-web-applications-and-application-pools-per-SharePoint-farm.png)
 
-> Please, Check the detail explanation at **[Get All Web Applications Per Farm](https://spgeeks.devoworx.com/get-all-web-applications-per-farm)**
 
 # Applies To
 
