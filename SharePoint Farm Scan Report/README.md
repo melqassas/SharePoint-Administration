@@ -4,6 +4,8 @@
 
 **[SharePoint Farm Scan Report](https://spgeeks.devoworx.com/sharepoint-farm-scan-report-powerhell-script/)** is a PowerShell script that would help you to scan farm objects to monitor the SharePoint farm limits by getting real statistics that would help you to administrate your farm effectively and efficiently.
 
+![Web-Application-Vs-Content-Database-Vs-Site-Collection-Vs-SubSite](https://user-images.githubusercontent.com/49816567/85030976-c8c04800-b186-11ea-96b0-24cd8d743e1c.gif)
+
 **This scripts helps you to get the below info:**
 
 - List of SharePoint web applications per farm.
