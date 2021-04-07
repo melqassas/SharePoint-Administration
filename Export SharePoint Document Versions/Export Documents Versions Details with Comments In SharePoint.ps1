@@ -30,7 +30,7 @@ If ($DocLib.EnableVersioning -eq $TRUE)
   Write-host "Start Exporting process ......." -ForegroundColor green
 
 #Prepare the file Path
-$ReportFolderPath = "C:\SPVersions\$DocLibName-$((Get-Date).ToString('yyyy-MM-dd-hh-mm-ss-tt'))"
+$ReportFolderPath = "C:\SPVersions\$DocLibName\LibVersions-$((Get-Date).ToString('yyyy-MM-dd-hh-mm-ss-tt'))"
 New-Item -ItemType Directory -Path $ReportFolderPath
 $ReportFilePath = "$ReportFolderPath\versions.csv"
 New-Item -ItemType file -Path $ReportFilePath
