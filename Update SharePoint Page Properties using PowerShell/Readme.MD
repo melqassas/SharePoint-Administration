@@ -10,5 +10,5 @@ This PowerShell script helps you update the SharePoint Publshing Page Properties
  
 > Check how to use this script at **[SharePoint 2019: Update Page Properties using PowerShell](https://spgeeks.devoworx.com/update-page-properties-powershell-sharepoint-2019)**
 
---------------
+---------------
 > **Have a related question? Please ask it at [deBUG.to](https://deBUG.to) Community** | **[Mohamed El-Qassas](https://devoworx.com)**
