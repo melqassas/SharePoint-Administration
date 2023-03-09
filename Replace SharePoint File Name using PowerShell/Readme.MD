@@ -11,6 +11,10 @@ Check how to use this script at **[SharePoint 2019: Replace File Name using Powe
 ## Output
 
 ![Update SharePoint Page Properties using PowerShell](https://i0.wp.com/spgeeks.devoworx.com/wp-content/uploads/2022/09/replace-file-name-using-Powershell-in-SharePoint-2019.png?w=723&ssl=1)
+
+## Supported Versions
+- SharePoint 2019
+- SharePoint 2016
  
 ---------------
 
